@@ -150,6 +150,7 @@ border-radius: 44px;
 
 }
 .see {
+    align-content:center;
     background-color: #A55B4B;
   position: absolute;
 width: 150px;
