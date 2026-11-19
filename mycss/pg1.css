@@ -60,14 +60,13 @@ border-radius: 18px;
 
 }
 .about {
-  font-family: 'Abril Fatface', serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.25rem;
-  line-height: 1.2;
-  text-align: center;
-  color: black;
-  margin: 0 0 12px;
+  position: static !important;
+  top: auto !important;
+  left: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  width: auto !important;
+  margin: 0 0 12px !important;
 }
 .aboutb  {
     font-family: "Lato", sans-serif;
