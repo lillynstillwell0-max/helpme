@@ -68,12 +68,11 @@ line-height: 49px;
 text-align: center;
 color: black;
     position: absolute;
-left: 50%;
-right: 50%;
-top: 50%;
-bottom: 2%;
-width: 50%;
-}
+left: 52%;
+right: 68.74%;
+top: 10%;
+bottom: 91%;
+    width: 80%
 .aboutb  {
     font-family: "Lato", sans-serif;
 font-style: normal;
