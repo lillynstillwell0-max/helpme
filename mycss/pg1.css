@@ -199,3 +199,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 23px;
 }
+body { margin: 0; overflow-x: hidden; }
+img { max-width: 100%; }
+.sec1 { text-align: center; }
