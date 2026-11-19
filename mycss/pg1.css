@@ -5,11 +5,7 @@ body {
   background-color: #d7c9eb;
 }
 .desc1 {
-  margin-left: auto;
-  margin-right: 0;
-  max-width: 500px;
   text-align: center;
-
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-size: 1.75rem;
