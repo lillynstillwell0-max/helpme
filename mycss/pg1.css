@@ -64,13 +64,13 @@ font-family: 'Abril Fatface', serif;
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
-line-height: 1%;
+line-height: 49px;
 text-align: center;
 color: black;
     position: absolute;
 left: 52%;
 right: 68.74%;
-    top:0%;
+top: 10%;
 bottom: 91%;
     width: 80%
 .aboutb  {
