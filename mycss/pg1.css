@@ -176,11 +176,11 @@ top: -9%;
 bottom: 91%;
     }
 .logo2 {
-    position: absolute;
-left: 60.75%;
-right: 60%;
-top: 120%;
-bottom: 91%;
+    position: static;
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+  margin: 0;
 border: 21px solid #400e31;
 border-radius: 44px;
 
